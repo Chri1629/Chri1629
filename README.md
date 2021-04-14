@@ -2,14 +2,12 @@
 
 ### Hi there I'm Christian :lemon:
 
-[![lucafluri.ch](https://img.shields.io/static/v1?label=lucafluri.ch&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://www.lucafluri.ch/)
-
 [![christian.uccheddu@gmail.com](https://img.shields.io/static/v1?label=christian.uccheddu@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:christian.uccheddu@gmail.com)
 
-👨‍💻 24 Years old Data Scientisti  
+👨‍💻 24 Years old Data Scientist
 
 👨‍🎓 Studying Data Science here in Italy  
 
-🚧 **Current Project:** [Price Tracker](https://github.com/Chri1629/price_tracker)
+🚧 **Current Project:** [CovidItaliaBot](https://github.com/Chri1629/covid_bot.git)
 
 ⭐️ From [Chri1629](https://github.com/Chri1629)
