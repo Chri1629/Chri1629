@@ -9,5 +9,6 @@
 👨‍🎓 Studying Data Science here in Italy  
 
 🚧 **Current Project:** [CovidItaliaBot](https://github.com/Chri1629/covid_bot.git)
+🚧 **Current Project:** [MoneyTor](https://github.com/MarcoP9/money_bot)
 
 ⭐️ From [Chri1629](https://github.com/Chri1629)
