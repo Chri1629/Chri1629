@@ -4,11 +4,9 @@
 
 [![christian.uccheddu@gmail.com](https://img.shields.io/static/v1?label=christian.uccheddu@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:christian.uccheddu@gmail.com)
 
-👨‍💻 24 Years old Data Scientist
+👨‍💻 25 Years old Data Scientist
 
-👨‍🎓 Studying Data Science here in Italy  
-
-🚧 **Current Project:** [CovidItaliaBot](https://github.com/Chri1629/covid_bot.git)
+👨‍🎓 Data Scientist and Physicist
 
 🚧 **Current Project:** [MoneyTor](https://github.com/MarcoP9/money_bot)
 
